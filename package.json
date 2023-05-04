@@ -1,7 +1,7 @@
 {
   "name": "@open-sauced/release",
   "private": true,
-  "version": "1.0.3",
+  "version": "1.0.0",
   "license": "MIT",
   "files": [
     "release.config.js"
