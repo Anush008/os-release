@@ -5,6 +5,15 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.1.0](https://github.com/Anush008/os-release/compare/v1.0.0...v1.1.0) (2023-05-04)
+
+
+### 🍕 Features
+
+* node ver update ([444ca27](https://github.com/Anush008/os-release/commit/444ca276ee47e807e36acfff87f13c76c0192cc9))
+* test node update ([7cc12d6](https://github.com/Anush008/os-release/commit/7cc12d66485ddfe7b17953ef2e0b816f8a7aea3f))
+* update test 5 ([49f9970](https://github.com/Anush008/os-release/commit/49f997065be44067bf4315289830a329e54286ac))
+
 ## 1.0.0 (2023-05-04)
 
 
