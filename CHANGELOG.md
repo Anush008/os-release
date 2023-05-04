@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.2.0](https://github.com/Anush008/os-release/compare/v1.1.0...v1.2.0) (2023-05-04)
+
+
+### 🍕 Features
+
+* Manifest bump test 24 ([2365913](https://github.com/Anush008/os-release/commit/236591331a3f5bea4a8daf8d76bdc0ed7ca9d459))
+
 ## [1.1.0](https://github.com/Anush008/os-release/compare/v1.0.0...v1.1.0) (2023-05-04)
 
 
