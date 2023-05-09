@@ -13,7 +13,10 @@
     "npm": ">=7"
   },
   "bugs": "https://github.com/open-sauced/release/issues",
-  "repository": "github:Anush008/os-release",
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/Anush008/os-release.git"
+  },
   "peerDependencies": {
     "semantic-release": ">=19.0.0"
   },
