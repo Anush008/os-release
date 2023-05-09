@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.3.0](https://github.com/Anush008/os-release/compare/v1.2.0...v1.3.0) (2023-05-09)
+
+
+### 🍕 Features
+
+* repository field add ([19b7da8](https://github.com/Anush008/os-release/commit/19b7da8904f1abbcdc105098a6b9a3886e917916))
+
 ## [1.2.0](https://github.com/Anush008/os-release/compare/v1.1.0...v1.2.0) (2023-05-04)
 
 
